@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmanrus
-- 👀 I’m interested in ...
+- 👀 I’m heavily interested in Learning real computer science stuff, game development, and web development.
 - 🌱 I’m currently learning computer language and other stuff.. PYTHON, DJANGO Framework, PHP, and Game Development, French too
 - 💞️ I’m looking to collaborate on Game Development in Roblox and other game development tools that I don't know as of now, and Web app Development.. 
 - 📫 How to reach me @mmanrusiana@gmail.com 
